@@ -13,20 +13,20 @@ SoloEra AI is a chat-based supportive self-care planner tailored for women, desi
 - Supabase Account (free tier)
 - Gemini API (free tier)
 
-# Install Tailwind CSS
+### Install Tailwind CSS
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
 
-# Start development server
+### Start development server
 npm start
 
-# To Install Supabase Client
+### To Install Supabase Client
 npm install @supabase/supabase-js
 
-# To Install Google Gemini API
+### To Install Google Gemini API
 npm install @google/generative-ai
 
-# In .env file, generate your Google Gemini API Key from Google AI Studio
+### In .env file, generate your Google Gemini API Key from Google AI Studio
 REACT_APP_GEMINI_API_KEY=your_api_key_here
 
 
