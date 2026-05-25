@@ -16,10 +16,12 @@ A woman (any race, disability, sexuality, cultural background) seeking emotional
 - Backend: Supabase (handles database, auth and storage)
 - AI: Google Gemini API (requires to create an API key before using chat feature)
 
-## Tools Needed:
+## Tools Needed to Install:
 - VSCode
 - Node.js
 - Git
+
+## Create accounts for:
 - Supabase Account (free tier)
 - Gemini API (free tier)
 
