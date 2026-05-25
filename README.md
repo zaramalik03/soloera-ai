@@ -25,7 +25,7 @@ A woman (any race, disability, sexuality, cultural background) seeking emotional
 - Supabase Account (free tier)
 - Gemini API (free tier)
 
-### Install Tailwind CSS
+### Install Tailwind CSS and Node Modules
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
 
